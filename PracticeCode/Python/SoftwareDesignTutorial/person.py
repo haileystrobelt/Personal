@@ -19,4 +19,11 @@ class Person:
         else:
             raise Error("Invalid Address...")
 
+        def add_address(self, address):
+            if not isinstance(address, Address):
+                raise Error("Invalid Address...")
+
+            self.addresses.append(address)
+
+
         #14:21
