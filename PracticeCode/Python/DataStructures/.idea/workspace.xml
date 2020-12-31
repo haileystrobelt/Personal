@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03f8c3a9-2014-4a0c-92af-b3b7137bbff2" name="Default Changelist" comment="" />
+    <list default="true" id="03f8c3a9-2014-4a0c-92af-b3b7137bbff2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PythonResearch/HW_W1_E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PythonResearch/HW_W1_E2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +40,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Python/PythonResearch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PythonResearch/HW_W1_E2.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haile\Documents\Python\PythonResearch" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="PracticePython" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="HW_W1_E2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +58,11 @@
         <env name="PythonPath" value="C:\Users\haile\AppData\Local\Programs\Python\Python39" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../../../Python/PythonResearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PythonResearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../../../Python/PythonResearch/PracticePython.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PythonResearch/HW_W1_E2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
