@@ -6,14 +6,14 @@ In this six-part exercise, we will find a way to approximate this value."""
 import random
 import math
 
-
+# 2a
 # Using the math library, calculate and print the value of π/4.
 # What is the value of π/4?
 
 def ratioArea():
     return math.pi/4
 
-
+# 2b
 # Using random.uniform(), create a function rand() that generates a single float between −1 and 1.
 # Call rand() once. For us to be able to check your solution, we will use random.seed() to fix the seed value of the random number generator.
 
